@@ -1,2 +1,2 @@
 # Portfolio
-![alt text](Book Sales Top 3.png)
+![alt text](Book_Sales_Top_3.png)
